@@ -1,0 +1,57 @@
+Footer HTML 
+
+
+
+
+
+<div class="ftr">
+        <footer class="footer">
+            <div class="footercon">
+              <div class="row1">
+                <div class="footer-col">
+                  <h4>Company</h4>
+                  <ul>
+                    <li><a href="s.html">about us</a></li>
+                    <li><a href="#">our services</a></li>
+                    <li><a href="#">privacy policy</a></li>
+                    <li><a href="#">about product</a></li>
+                  </ul>
+                </div>
+    
+    
+                <div class="footer-col">
+                  <h4>Get help</h4>
+                  <ul>
+                    <li><a href="#">FAQ</a></li>
+                    <li><a href="#">shipping</a></li>
+                    <li><a href="#">Returns</a></li>
+                    <li><a href="#">Order Status</a></li>
+                    <li><a href="#">Payment options</a></li>
+                  </ul>
+                </div>
+    
+                <div class="footer-col">
+                  <h4>Online shop</h4>
+                  <ul>
+                    <li><a href="#">Women</a></li>
+                    <li><a href="#">Men</a></li>
+                    <li><a href="#">Kid</a></li>
+                    <li><a href="#">Home Textiles</a></li>
+                    
+                  </ul>
+                </div>
+    
+    
+                <div class="footer-col">
+                  <h4>Follow us</h4>
+                  <div class="social-links">
+                    <a href="https://in.linkedin.com/"><i class="fa-brands fa-linkedin b1"></i></a>
+                    <a href="https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjChYP68N2EAxWNwDwCHfM9AZEYABAAGgJzZg&ase=2&gclid=CjwKCAiAopuvBhBCEiwAm8jaMbtaKLqX6t3riu_zGCJHbevGXBrnhDa9ANmuT7JcxJXo6Nxo8D09fxoCAR0QAvD_BwE&ohost=www.google.com&cid=CAESVuD21dBciVVCfAcm5yycY8KTOWy-u4ajsvhQPBqSuEEmJAMKYJvPhhmUyRsjf9NlScvmAfQDg3lJ16RGPfBTgv6uAxRRHt_FYwIe1cJ4XQuzkJCob7jZ&sig=AOD64_3EShtt7AI_kss6idUqUPDKwRRmwg&q&nis=4&adurl&ved=2ahUKEwig1P758N2EAxVfd2wGHeSuDJUQ0Qx6BAgGEAE"><i class="fa-brands fa-instagram b1"></i></a>
+                    <a href="https://twitter.com/?lang=en"><i class="fa-brands fa-twitter b1"></i></a>
+                    <a href="https://twitter.com/?lang=en"><i class="fa-brands fa-facebook-f b1"></i></a>
+                  </div>
+               
+                </div>
+              </div>
+            </div>
+          </footer>
